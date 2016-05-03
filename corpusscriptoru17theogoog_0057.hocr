@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru17theogoog_0057.png"; bbox 0 0 2984 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 182 1559 1173 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 182 1559 1173 1948">
+     <span class='ocr_line' id='line_1_1' title="bbox 182 1559 1173 1676; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 182 1561 489 1676; x_wconf 58' lang='lat' dir='ltr'><em>ANNHA&#39;·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 517 1559 683 1674; x_wconf 85' lang='grc' dir='ltr'><em>ΤΗΣ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 713 1561 1173 1676; x_wconf 84' lang='grc' dir='ltr'><em>ΚΟΜΝΗΝΗΣ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 385 1825 983 1948; baseline 0.002 -4"><span class='ocrx_word' id='word_1_4' title='bbox 385 1831 437 1944; x_wconf 85' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 479 1836 530 1943; x_wconf 88' lang='grc' dir='ltr'><em>Λ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 569 1832 622 1940; x_wconf 85' lang='grc' dir='ltr'><em>Ε</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 661 1825 714 1948; x_wconf 81' lang='grc' dir='ltr'><em>Ξ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 750 1831 787 1938; x_wconf 92' lang='lat' dir='ltr'><em>I</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 825 1835 879 1943; x_wconf 88' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 910 1833 983 1945; x_wconf 88' lang='grc' dir='ltr'><em>Σ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1496 4800">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1496 4800">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1496 4800; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1496 4800; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
